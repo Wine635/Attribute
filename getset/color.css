@@ -1,0 +1,15 @@
+.fruit{
+    background-color: blueviolet;
+    border: 1px solid black;
+    text-align: center;
+    max-width: 200px;
+    padding: 10px auto;
+}
+.sign{
+    background-color: coral;
+    list-style-type: none;
+    border: 1px solid black;
+    text-align: center;
+    max-width: 200px;
+    padding: 10px auto;
+}
